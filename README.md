@@ -1,6 +1,9 @@
 Clinic Management System
+
 ![Introduction](./Intro.png)
+
 Overview
+
 The Clinic Management System is an offline tool designed for small clinics to manage patient registration, and medical records. 
 It allows clinics to operate efficiently without an internet connection and provides printable reports.
 
