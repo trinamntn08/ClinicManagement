@@ -4,14 +4,13 @@
 
 ## Overview
 
-The **Clinic Management System** is an offline tool designed for small clinics to manage patient registration and medical records. 
+The **Clinic Management System** is an offline tool designed for small clinics to manage patient registration and records. 
 It allows clinics to operate efficiently OFFLINE and provides printable reports.
 
 ## Features
 
 - **Offline Operation**: No internet required, data is stored locally.
-- **Patient Management**: Register, update, and manage patient details and medical history.
-- **Medical Records**: Store and access patient treatments, prescriptions, and history.
+- **Patient Management**: Register, update, and manage patient details history.
 - **Printable Documents**: Generate and print patient details, prescriptions, and reports.
 - **User-Friendly**: Designed for non-technical staff to use easily.
 
