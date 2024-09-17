@@ -23,7 +23,7 @@ It allows clinics to operate efficiently OFFLINE and provides printable reports.
 
 ## Run the application
 
-Personalize the path to your project directory and then double-click the `PatientManagement.vbs` file to start the application.
+Edit the `PatientManagement.vbs` file and run it to start the application.
 
 ## Backup & Support
 
